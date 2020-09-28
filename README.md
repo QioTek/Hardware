@@ -1,2 +1,2 @@
 # Hardware
-Hardware schematic, PCB Files.
+Hardware schematics, PCB Files.
